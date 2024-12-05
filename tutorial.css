@@ -1,0 +1,27 @@
+body{
+    background-color: #239ff1;
+    height: 100vh;
+}
+
+button{
+    color: rgba(255, 255, 255, 0.37);
+}
+.btn-Tutorial button:hover{
+    color: #ffffff;
+    box-shadow: 0px 0px 8px #ffffff;
+}
+
+.btn-Tutorial button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #0c6baa;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.topo-do-site h1{
+    color: #ffffffdc;
+    font-size: 40px;
+} 
